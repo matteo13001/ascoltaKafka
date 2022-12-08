@@ -1,0 +1,9 @@
+ascolta\kafka\application\Application.class
+ascolta\kafka\kafka\KafkaSend.class
+ascolta\kafka\service\ServiceProva.class
+ascolta\kafka\config\KafkaProducerConfig.class
+ascolta\kafka\controller\ControllerProva01.class
+ascolta\kafka\bean\MongodbUri.class
+ascolta\kafka\kafka\kafkaListener.class
+ascolta\kafka\config\Configuration.class
+ascolta\kafka\config\KafkaTopicConfig.class
